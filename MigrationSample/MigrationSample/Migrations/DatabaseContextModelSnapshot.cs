@@ -49,6 +49,8 @@ namespace MigrationSample.Migrations
 
                     b.Property<string>("Description");
 
+                    b.Property<string>("IdentyNumber");
+
                     b.Property<string>("Name");
 
                     b.Property<string>("SurName");
