@@ -28,3 +28,33 @@ C:\Users\Murat BAŞARAN\source\repos\MigrationSample\MigrationSample\obj\Debug\n
 C:\Users\Murat BAŞARAN\source\repos\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.dll
 C:\Users\Murat BAŞARAN\source\repos\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.pdb
 C:\Users\Murat BAŞARAN\source\repos\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.csproj.CopyComplete
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\bin\Debug\netcoreapp2.2\MigrationSample.deps.json
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\bin\Debug\netcoreapp2.2\MigrationSample.runtimeconfig.json
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\bin\Debug\netcoreapp2.2\MigrationSample.runtimeconfig.dev.json
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\bin\Debug\netcoreapp2.2\MigrationSample.dll
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\bin\Debug\netcoreapp2.2\MigrationSample.pdb
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\bin\Debug\netcoreapp2.2\MigrationSample.Views.dll
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\bin\Debug\netcoreapp2.2\MigrationSample.Views.pdb
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.csprojAssemblyReference.cache
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.RazorAssemblyInfo.cache
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.RazorAssemblyInfo.cs
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.AssemblyInfoInputs.cache
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.AssemblyInfo.cs
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.TagHelpers.input.cache
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.TagHelpers.output.cache
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.RazorCoreGenerate.cache
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.RazorTargetAssemblyInfo.cache
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.RazorTargetAssemblyInfo.cs
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.Views.pdb
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.dll
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.pdb
+C:\Users\murat\Desktop\sil\MigrationSample\MigrationSample\MigrationSample\obj\Debug\netcoreapp2.2\MigrationSample.csproj.CopyComplete
