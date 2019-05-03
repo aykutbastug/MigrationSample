@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Murat BAŞARAN\\source\\repos\\MigrationSample\\MigrationSample\\MigrationSample.csproj": {}
+    "C:\\Users\\firat\\Documents\\GitHub\\aykutbastug\\MigrationSample\\MigrationSample\\MigrationSample\\MigrationSample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Murat BAŞARAN\\source\\repos\\MigrationSample\\MigrationSample\\MigrationSample.csproj": {
+    "C:\\Users\\firat\\Documents\\GitHub\\aykutbastug\\MigrationSample\\MigrationSample\\MigrationSample\\MigrationSample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Murat BAŞARAN\\source\\repos\\MigrationSample\\MigrationSample\\MigrationSample.csproj",
+        "projectUniqueName": "C:\\Users\\firat\\Documents\\GitHub\\aykutbastug\\MigrationSample\\MigrationSample\\MigrationSample\\MigrationSample.csproj",
         "projectName": "MigrationSample",
-        "projectPath": "C:\\Users\\Murat BAŞARAN\\source\\repos\\MigrationSample\\MigrationSample\\MigrationSample.csproj",
-        "packagesPath": "C:\\Users\\Murat BAŞARAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Murat BAŞARAN\\source\\repos\\MigrationSample\\MigrationSample\\obj\\",
+        "projectPath": "C:\\Users\\firat\\Documents\\GitHub\\aykutbastug\\MigrationSample\\MigrationSample\\MigrationSample\\MigrationSample.csproj",
+        "packagesPath": "C:\\Users\\firat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\firat\\Documents\\GitHub\\aykutbastug\\MigrationSample\\MigrationSample\\MigrationSample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Murat BAŞARAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\firat\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,6 +41,10 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "FakeData": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "Microsoft.AspNetCore.App": {
               "suppressParent": "All",
               "target": "Package",
